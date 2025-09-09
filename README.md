@@ -1,4 +1,4 @@
-# Social Signals Data Ppipeline
+# Social Signals Data Pipeline
 
 # Project Kickoff: Social Signals Data Pipeline for E-Commerce Insights
 # Welcome to the Project!
